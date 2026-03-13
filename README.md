@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om P Parmar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [guidance-mate-app](https://github.com/ompparmar3/guidance_mate_app)
+- 🔭 I’m currently working on 
 
 - 👨‍💻 All of my projects are available at [https://omparmar.netlify.app/](https://omparmar.netlify.app/)
 
